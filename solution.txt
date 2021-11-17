@@ -1,0 +1,8 @@
+Ошибка: error: src refspec refs/heads/main does not match any
+error: failed to push some refs to 'https://github.com/MelinP/RepoName-PavelM-ForMerge.git'
+
+Решение:
+
+1. git pull.
+
+эм все...
